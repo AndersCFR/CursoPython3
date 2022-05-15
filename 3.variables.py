@@ -18,7 +18,6 @@ print(cadena2)
 cadena3 = ('Esto \t es un \n texto \' ')
 print(cadena3)
 
-
 # Funciones de los strings
 # print -> Formated string
 nombre = 'Anderson'
